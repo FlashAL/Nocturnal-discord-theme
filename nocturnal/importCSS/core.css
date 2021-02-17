@@ -2720,10 +2720,6 @@ svg[name=Nitro] g path {
 	border-radius: 5px;
 }
 
-.controlButton-2MhVEL foreignObject {
-	mask: none;
-}
-
 .contextMenuNub-3yOOYo {
 	bottom: 4px;
 	right: 4px;
@@ -3662,4 +3658,9 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 
 .inputInner-2akrSS {
 	border: 1px solid var(--deprecated-text-input-border);
+}
+
+.controlButton-2MhVEL foreignObject {
+	mask: none;
+	padding-top: 6px;
 }
